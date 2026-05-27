@@ -4,7 +4,7 @@ This is a project which outputed from **[elasti_py/ Day077](https://github.com/e
 
 # Main Target
 
-* Work and familiarize with numpy and NDArrays.
+* Work and familiarize with `numpy` and NDArrays.
 * Solve some `challenge` 
 * Use in a combination with `matplotlib` and `PIL(pillow)` to render a simple image and manipulate it.
 
